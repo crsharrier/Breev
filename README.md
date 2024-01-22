@@ -14,3 +14,9 @@ TO DO:
 
 Next time:
   - Set up for TDD from the outset. Takes more time to get the ball rolling but will save you so many Log() statement debugging sessions down the line, future Christian.
+
+![Screenshot_20240122-101010](https://github.com/crsharrier/Breev/assets/99554423/6c3f2ab8-6ba0-42df-9900-add360f28689)
+![Screenshot_20240122-101032](https://github.com/crsharrier/Breev/assets/99554423/66491b94-2d9e-4e4f-95a4-678cb4d4f742)
+![Screenshot_20240122-101019](https://github.com/crsharrier/Breev/assets/99554423/c41207f6-84a9-4be6-9d8c-0b4613e3a227)
+![Screenshot_20240122-101025](https://github.com/crsharrier/Breev/assets/99554423/09317806-8f6a-46ec-b056-38ea4da6d6bb)
+
