@@ -19,7 +19,8 @@ Next time:
 ![Screenshot_20240122-101010](https://github.com/crsharrier/Breev/assets/99554423/ab2b6a9d-4b96-4648-90cc-6c94af142814)
 ![Screenshot_20240122-102456](https://github.com/crsharrier/Breev/assets/99554423/672139fd-a259-45c9-b914-2b9bdbb966c7)
 ![Screenshot_20240122-101032](https://github.com/crsharrier/Breev/assets/99554423/78e251de-0d30-4d8a-be7a-bcecd92627aa)  
-(^ history page still to be implemented ^)
+(^ history page still to be implemented ^)  
+
 ![Screenshot_20240122-101019](https://github.com/crsharrier/Breev/assets/99554423/f7157eb1-7c4f-4879-a1b8-07d32d78cef8)
 ![Screenshot_20240122-102208](https://github.com/crsharrier/Breev/assets/99554423/74271fc2-2150-43af-9630-87005af09d4e)
 ![Screenshot_20240122-102211](https://github.com/crsharrier/Breev/assets/99554423/e95bb309-dbc6-422e-960b-7026b4d0abd9)  
